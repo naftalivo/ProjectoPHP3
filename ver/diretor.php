@@ -103,7 +103,7 @@ $data = json_encode($data);
 	        
             ?>
 	        
-	        </a><!---------Admin Profile Here------------>
+	      /a><!---hhghghsdsdsdssdsds------Admin Profile Here------------>
 	        
 	        <button  type="button" class="navbar-toggle" data-toggle="collapse" data-target = ".navHeaderCollapse">
 
